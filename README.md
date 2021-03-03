@@ -1,6 +1,6 @@
 MarketStore
 
-After reading specification I dicded that it this would be, in my opinion, appropriate solution.
+After reading specification I decided that it this would be, in my opinion, appropriate solution.
 
 There are three types of discount cards that the store is using(bronze, silver, gold). The fact is that each of these cards have pretty much the same characteristics, except that only the discount rate differs depending on the type of the card (and of course the turnover).
 
